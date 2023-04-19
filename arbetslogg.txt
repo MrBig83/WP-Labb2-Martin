@@ -1,0 +1,22 @@
+
+==============================================================================================================================
+||                                                                                                                          ||
+||      Detta är bara tänkt som en fil där jag samlar stödord o.s.v. för att senare kunna skriva en bättre arbetslogg.      ||
+||                                                                                                                          ||
+==============================================================================================================================
+
+===
+
+19/4 - 23
+kl. 10:30
+
+Lagt till produkter i olika kategorier och som olika produkttyper. 
+Allt enligt spec ifrån Henrik. 
+
+Barntema behövs läggas till. 
+
+CPT behövs läggas till. (Kan jag kanske göra det i barntemat?)
+Idé: CPT för nyheter som visas på förstasidan. 
+
+===
+
